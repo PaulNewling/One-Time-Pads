@@ -136,7 +136,7 @@ $ keygen 256 > mykey
 ##### Files and Scripts
 You are provided with 5 plaintext files to use (one, two, three, four, five). The grading will use these specific files; do not feel like you have to create others.
 
-[plaintext1](plaintext files/plaintext1)
+[plaintext1](plaintext files/plaintext1.txt)
 [plaintext2](plaintext files/plaintext2)
 [plaintext3](plaintext files/plaintext3)
 [plaintext4](plaintext files/plaintext4)
