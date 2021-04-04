@@ -136,13 +136,14 @@ $ keygen 256 > mykey
 ##### Files and Scripts
 You are provided with 5 plaintext files to use (one, two, three, four, five). The grading will use these specific files; do not feel like you have to create others.
 
-plaintext1
-plaintext2
-plaintext3
-plaintext4
-plaintext5
+[plaintext1](plaintext files/plaintext1)
+[plaintext2](plaintext files/plaintext2)
+[plaintext3](plaintext files/plaintext3)
+[plaintext4](plaintext files/plaintext4)
+[plaintext5](plaintext files/plaintext5)
 
-You are also provided with a grading script p5testscript that you can run to test your software. If it passes the tests in the script, and your code has sufficient commenting, your assignment will receive full points. The file assignment5-otp-list-of-tests.pdf provides you with a list of tests included in the test script and the points corresponding to these tests.
+You are also provided with a grading script p5testscript that you can run to test your software. If it passes the tests in the script, and your code has sufficient commenting, your assignment will receive full points.
+
 EVERY TIME you run this script, change the port numbers you use! Otherwise, because Unix may not let go of your ports immediately, your successive runs may fail!
 Finally, you will be required to write a compilation script (or use the one provided by us, see below) that compiles all five of your programs.
 
