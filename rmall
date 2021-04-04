@@ -1,0 +1,7 @@
+#!/bin/bash
+rm enc_server
+rm enc_client
+rm dec_server
+rm dec_client
+rm keygen
+rm mytestresults

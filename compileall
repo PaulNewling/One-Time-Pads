@@ -1,0 +1,11 @@
+#!/bin/bash
+rm enc_server
+rm enc_client
+rm dec_server
+rm dec_client
+rm keygen
+gcc -Wall -Wextra -pedantic -std=gnu99 -g -o enc_server enc_server.c helper.c
+gcc -Wall -Wextra -pedantic -std=gnu99 -g -o enc_client enc_client.c helper.c
+gcc -Wall -Wextra -pedantic -std=gnu99 -g -o dec_server dec_server.c helper.c
+gcc -Wall -Wextra -pedantic -std=gnu99 -g -o dec_client dec_client.c helper.c
+gcc -Wall -Wextra -pedantic -std=gnu99 -g -o keygen keygen.c
