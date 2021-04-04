@@ -137,9 +137,13 @@ $ keygen 256 > mykey
 You are provided with 5 plaintext files to use (one, two, three, four, five). The grading will use these specific files; do not feel like you have to create others.
 
 [plaintext1](/plaintext%20files/plaintext1)
+
 [plaintext2](/plaintext%20files/plaintext2)
+
 [plaintext3](/plaintext%20files/plaintext3)
+
 [plaintext4](/plaintext%20files/plaintext4)
+
 [plaintext5](/plaintext%20files/plaintext5)
 
 You are also provided with a grading script p5testscript that you can run to test your software. If it passes the tests in the script, and your code has sufficient commenting, your assignment will receive full points.
